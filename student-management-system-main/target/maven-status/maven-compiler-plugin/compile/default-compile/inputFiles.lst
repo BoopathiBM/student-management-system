@@ -1,0 +1,13 @@
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/StudentManagementSystemApplication.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/controller/DepartmentController.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/controller/StaffController.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/controller/StudentController.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/model/Department.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/model/Staff.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/model/Student.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/repo/DepartmentRepository.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/repo/StaffRepository.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/repo/StudentRepository.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/service/DepartmentService.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/service/StaffService.java
+/home/boopathi/java/student-management-sytem/student-management-system-main/src/main/java/com/boopathi/student_management_system/service/StudentService.java
